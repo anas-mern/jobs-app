@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Inkly/static/css/main.731795ad.css",
-    "main.js": "/Inkly/static/js/main.387f336d.js",
+    "main.css": "/Inkly/static/css/main.9aef4705.css",
+    "main.js": "/Inkly/static/js/main.e0df4d69.js",
     "static/media/logo.png": "/Inkly/static/media/logo.763cb4294e3cdfe28d88.png",
     "index.html": "/Inkly/index.html",
-    "main.731795ad.css.map": "/Inkly/static/css/main.731795ad.css.map",
-    "main.387f336d.js.map": "/Inkly/static/js/main.387f336d.js.map"
+    "main.9aef4705.css.map": "/Inkly/static/css/main.9aef4705.css.map",
+    "main.e0df4d69.js.map": "/Inkly/static/js/main.e0df4d69.js.map"
   },
   "entrypoints": [
-    "static/css/main.731795ad.css",
-    "static/js/main.387f336d.js"
+    "static/css/main.9aef4705.css",
+    "static/js/main.e0df4d69.js"
   ]
 }
